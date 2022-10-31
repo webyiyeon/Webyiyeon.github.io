@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "[Jekyll] My first posting!"
+title:  "[Test] My first posting!"
 date: 2022-10-31
-excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
 
 categories:
   - Blog
@@ -15,5 +14,5 @@ toc_sticky: true
 last_modified_at: 2022-10-31
 ---
 
-My visual studio code 
-My blog posting test 
+포스팅 테스트 </br>
+html보다 markdown방식이 훨씬 편하다고 하는데 아직 markdown 규칙을 잘 몰라서... 모르겠다.. 
