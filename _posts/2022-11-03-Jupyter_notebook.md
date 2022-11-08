@@ -29,4 +29,13 @@ last_modified_at: 2022-11-03T23:35:52-04:00
 3. 다양한 프로그래밍 언어 지원
 
 
-이러한 주피터 노트북을 사용하기 위해선 먼저 아나콘다(Anaconda) 설치가 필요하다. 
+이러한 주피터 노트북을 사용하기 위해선 먼저 아나콘다(Anaconda) 설치가 필요하다.   
+아나콘다 공식 사이트 [link](https://www.anaconda.com/)
+<img width="1440" alt="how_to_install_anaconda 01" src="https://user-images.githubusercontent.com/97453781/200223243-3ac8d6e0-3b81-48af-8ad3-42f310e2cb50.png">   
+<img width="1440" alt="how_to_install_anaconda 02" src="https://user-images.githubusercontent.com/97453781/200223254-82ad55e9-b19a-40ea-9c46-a374a2b9639a.png">   
+<img width="1440" alt="how_to_install_anaconda 03" src="https://user-images.githubusercontent.com/97453781/200223258-b4734503-af53-4422-b93d-627d3a4569ea.png">   
+<img width="1440" alt="how_to_install_anaconda 04" src="https://user-images.githubusercontent.com/97453781/200223262-907995a9-e6f7-4bcc-8669-e3cc22490a29.png">   
+
+
+소프트웨어 설치 동의 및 절차를 꼼꼼히 확인하며 설치를 마치면, Launchpad 에 Anaconda-Navigator 어플리케이션이 생긴다.   
+<img width="1440" alt="how_to_install_anaconda 05" src="https://user-images.githubusercontent.com/97453781/200223854-d28a953b-a54e-44fb-acd0-e78d3994ac75.png">
