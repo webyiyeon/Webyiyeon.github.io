@@ -45,7 +45,7 @@ $ conda install -c conda-forge altair vega_datasets
    
 ### How to use   
    
-<aside>   
+
 ✅ **기본 사용법**
 
 ```python
@@ -67,10 +67,9 @@ alt.Chart(판다스 데이터).mark_bar().encode(
 )`** : x축, y축, color, tooltip 등을 설정
 - **`.properties(width=가로, height=세로)`** : width, height 등 속성 설정
 - **`.interactive()`** : 추가 시 동적 차트로 변경(zoom 기능 등)
-</aside>   
+
    
    
-<aside> 
 ✅ 여러 그래프를 한 차트에 표현하고 싶을 때   
    
 ![test.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75cad622-95c9-415a-91aa-e4bd35a54bf9/test.png)   
@@ -103,4 +102,3 @@ from vega_datasets import data
 
 변수에 차트를 저장해서 더하기 연산(`+`) 또는 콤마(`,`)를 이용하여 한 차트에 표현 가능   
    
-</aside>
