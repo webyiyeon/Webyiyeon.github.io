@@ -78,16 +78,16 @@ alt.Chart(판다스 데이터).mark_bar().encode(
 import altair as alt
 from vega_datasets import data
 
-**source** = data.wheat() #표 형식의 데이터 
+source = data.wheat() #표 형식의 데이터 
 #		   year | wheat | wages 
 # 0 |  1565 | 41.0  | 5.00 
 
-**bar** = alt.Chart(**source**).mark_bar().encode(
+bar = alt.Chart(**source**).mark_bar().encode(
     x='year:O',
     y='wheat:Q'
 )
 
-**line** = alt.Chart(**source**).mark_line(color='red').transform_window(
+line = alt.Chart(**source**).mark_line(color='red').transform_window(
     # The field to average
     rolling_mean='mean(wheat)',
     # The number of values before and after the current value to include.
@@ -97,7 +97,7 @@ from vega_datasets import data
     y='rolling_mean:Q'
 )
 
-(**bar + line**).properties(width=600)
+(bar + line**).properties(width=600)
 ```
 
 변수에 차트를 저장해서 더하기 연산(`+`) 또는 콤마(`,`)를 이용하여 한 차트에 표현 가능   
