@@ -17,7 +17,7 @@ tags:
   - python basic
   - altair
   - chart library
-last_modified_at: 2022-11-10T21:03:00-00:00
+last_modified_at: 2022-11-14T21:46:00-00:00
 ---
    
 ### Altair Chart Library 설치 및 기본 사용법   
@@ -25,7 +25,7 @@ last_modified_at: 2022-11-10T21:03:00-00:00
 altair library [link](https://altair-viz.github.io/index.html)   
    
 #### Installation 설치
-
+   
 ```
 $ pip install altair vega_datasets
 ```
@@ -45,9 +45,9 @@ $ conda install -c conda-forge altair vega_datasets
    
 ### How to use   
    
-
+   
 ✅ **기본 사용법**
-
+   
 ```python
 import altair as alt
 
@@ -58,7 +58,7 @@ alt.Chart(판다스 데이터).mark_bar().encode(
 	tooltip = ['x축 컬럼명', 'y축 컬럼명', 'color 컬럼명'],
 ).properties(width=800, height=400).interactive()
 ```
-
+   
 - **`.mark_bar()`** : 차트 유형
 - **`.encode(
 	x = 'x축으로 지정할 컬럼명',
@@ -72,7 +72,7 @@ alt.Chart(판다스 데이터).mark_bar().encode(
    
 ✅ 여러 그래프를 한 차트에 표현하고 싶을 때   
    
-![test.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75cad622-95c9-415a-91aa-e4bd35a54bf9/test.png)   
+<img width="646" alt="altair example 01" src="https://user-images.githubusercontent.com/97453781/201663453-aabc2ce5-1e8c-4e1e-a48c-4aa221b75a34.png">
    
 ```python
 import altair as alt
@@ -99,6 +99,6 @@ line = alt.Chart(**source**).mark_line(color='red').transform_window(
 
 (bar + line**).properties(width=600)
 ```
-
+   
 변수에 차트를 저장해서 더하기 연산(`+`) 또는 콤마(`,`)를 이용하여 한 차트에 표현 가능   
    
