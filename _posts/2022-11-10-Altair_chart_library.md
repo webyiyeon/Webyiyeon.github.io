@@ -1,5 +1,5 @@
 ---
-title: "[Python] 파이썬 라이브러리 altair로 데이터 시각화하기"
+title: "[Python] 파이썬 라이브러리 altair 데이터 시각화"
 header:
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

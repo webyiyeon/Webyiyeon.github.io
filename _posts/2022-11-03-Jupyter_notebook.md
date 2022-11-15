@@ -1,5 +1,5 @@
 ---
-title: "[Python Basic] 주피터 노트북 설치"
+title: "[Python Basic] 주피터 노트북 기본 사용법 01. 설치"
 header:
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
