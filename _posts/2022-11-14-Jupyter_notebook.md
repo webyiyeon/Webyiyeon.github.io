@@ -15,7 +15,7 @@ tags:
   - jupyter notebook
   - data analysis
   - python basic
-last_modified_at: 2022-11-14T22:02:00-00:00
+last_modified_at: 2022-11-15T23:38:00-00:00
 ---
 
 ### Jupyter Notebook 기본 사용법   
