@@ -50,6 +50,8 @@ Jupyter Notebook 설치에 이어 본격적인 사용법을 익힙니다. 주피
 
 #### 마크다운 사용법
 
+##### header
+      
 ```
 This is an H1
 =============
@@ -57,12 +59,55 @@ This is an H1
    
 This is an H1
 =============   
-   
+      
 ```
 This is an H2
 -------------
 ```
-   
+
 This is an H2
 -------------   
    
+```
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+```
+      
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+
+
+##### block quote
+   
+```
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+```
+      
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+
+```
+> #### This is a header
+> * List
+> ```
+code
+> ```
+```
+   
+> #### This is a header
+> * List
+> ```
+code
+> ```
+
