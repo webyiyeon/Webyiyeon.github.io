@@ -17,7 +17,7 @@ tags:
   - python basic
 last_modified_at: 2022-11-10T21:27:00-00:00
 ---
-
+ 
 ### Jupyter Notebook 설치   
       
 본격적으로 파이썬 프로그래밍 및 분석 공부를 하기에 앞서, 웹 브라우저에서 파이썬 코드를 작성하고 실행 가능한 주피터 노트북(jupyter notebook) 사용법을 익히는 것이 좋습니다.    
