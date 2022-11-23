@@ -1,5 +1,5 @@
 ---
-title: "[Python Basic] 파이썬 기초"
+title: "[Python Basic] 파이썬 기초 - 데이터 타입의 이해"
 header:
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
