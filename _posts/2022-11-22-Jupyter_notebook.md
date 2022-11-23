@@ -1,5 +1,5 @@
 ---
-title: "[Python Basic] 주피터 노트북으로 작성하는 파이썬 기본"
+title: "[Python Basic] 주피터 노트북에서의 파이썬 기본 작성법"
 header:
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
