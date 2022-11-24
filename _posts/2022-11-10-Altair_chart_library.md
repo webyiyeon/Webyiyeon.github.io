@@ -46,7 +46,7 @@ $ conda install -c conda-forge altair vega_datasets
 ### How to use   
    
    
-✅ **기본 사용법**
+**✓ 기본 사용법**
    
 ```python
 import altair as alt
@@ -70,7 +70,7 @@ alt.Chart(판다스 데이터).mark_bar().encode(
 
    
    
-✅ 여러 그래프를 한 차트에 표현하고 싶을 때   
+✓ 여러 그래프를 한 차트에 표현하고 싶을 때   
    
 <img width="646" alt="altair example 01" src="https://user-images.githubusercontent.com/97453781/201663453-aabc2ce5-1e8c-4e1e-a48c-4aa221b75a34.png">
    

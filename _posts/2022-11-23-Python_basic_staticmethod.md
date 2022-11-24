@@ -72,4 +72,4 @@ Math.multiply(10, 20)
 정적 메서드는 메서드의 실행이 외부 상태에 영향을 끼치지 않는 순수 함수(pure function)를 만들 때 사용합니다. 부수 효과가 없고 입력값이 같으면 언제나 같은 출력값을 반환시킵니다. 즉, 정적 메서드는 인스턴스의 상태를 변화시키지 않는 메서드를 만들 때 사용합니다.   
 
 
-참고 자료: fastcampus 파이썬 프로그래밍 기초, [코딩도장](https://dojang.io/mod/page/view.php?id=2379)
+참고 자료: [fastcampus](https://fastcampus.co.kr/), [코딩도장](https://dojang.io/mod/page/view.php?id=2379)
