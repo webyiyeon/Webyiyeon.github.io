@@ -1,4 +1,3 @@
-
 ---
 title: "[Python Basic] 파이썬 기초 - 조건문(if문)"
 header:
