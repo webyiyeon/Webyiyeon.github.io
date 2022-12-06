@@ -7,14 +7,15 @@ header:
     #- label: "Learn more"
       #url: "https://unsplash.com"
 categories:
-  - Python
+  - MongoDB
 tags:
-  - python
+  - mongoDB
   - programming
-  - jupyter
-  - jupyter notebook
+  - data
+  - noSQL
   - data analysis
-  - python basic
+  - SQL
+  - document data 
 last_modified_at: 2022-12-01T23:44:00-00:00
 ---
 #### SQL vs NoSQL 
