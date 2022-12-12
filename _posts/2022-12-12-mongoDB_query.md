@@ -31,10 +31,11 @@ RDB와 MongoDB 용어를 비교하는 경우 아래와 같습니다.
 | Row | Document |
 | Column | Field |
 | Primary Key | Object_Id Field |
-|Relationship | Embedded & Link | 
+| Relationship | Embedded & Link | 
    
    
 ### ✓ 비교(Comparison) 연산자
+
 | operator | 설명 |
 | --- | --- |
 | $eq | (equals) 주어진 값과 일치하는 값 |
