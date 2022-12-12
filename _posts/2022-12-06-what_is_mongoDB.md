@@ -82,3 +82,5 @@ last_modified_at: 2022-12-01T23:44:00-00:00
 - join이 불가능하므로 미리 embedding시켜야함
 
 **document data model: 데이터 설계를 "종이문서" 설계하듯이 설계해야한다.**
+   
+
