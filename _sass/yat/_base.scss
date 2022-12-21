@@ -146,6 +146,7 @@ pre,
 code {
   @include relative-font-size(0.9375);
   color: $text-color;
+  font-family: 'Cascadia Code Regular'
 }
 
 *:not(pre) > code {
