@@ -1,30 +1,24 @@
 ---
-title: "[Python] 파이썬 라이브러리 altair 데이터 시각화"
+title: "[Python] 시각화 라이브러리 - altair"
 header:
-  #overlay_image: /assets/images/unsplash-image-1.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #actions:
-    #- label: "Learn more"
-      #url: "https://unsplash.com"
 categories:
   - Python
 tags:
   - python
   - programming
-  - jupyter
   - jupyter notebook
   - data analysis
-  - python basic
   - altair
   - chart library
+  - visualization
 last_modified_at: 2022-11-14T21:46:00-00:00
 ---
    
-### Altair Chart Library 설치 및 기본 사용법   
+# Altair Chart Library 설치 및 기본 사용법   
    
 altair library [link](https://altair-viz.github.io/index.html)   
    
-#### Installation 설치
+### Installation 설치
    
 ```
 $ pip install altair vega_datasets

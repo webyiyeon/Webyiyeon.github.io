@@ -1,11 +1,6 @@
 ---
 title: "[MongoDB] 몽고디비란? - NoSQL DB"
 header:
-  #overlay_image: /assets/images/unsplash-image-1.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #actions:
-    #- label: "Learn more"
-      #url: "https://unsplash.com"
 categories:
   - MongoDB
 tags:

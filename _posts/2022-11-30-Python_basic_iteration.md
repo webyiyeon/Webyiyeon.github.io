@@ -1,11 +1,6 @@
 ---
 title: "[Python Basic] 파이썬 기초 - 조건문(if문)"
 header:
-  #overlay_image: /assets/images/unsplash-image-1.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #actions:
-    #- label: "Learn more"
-      #url: "https://unsplash.com"
 categories:
   - Python
 tags:
