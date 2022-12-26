@@ -148,11 +148,17 @@ blockquote {
   font-weight: normal;
   src: url('./Cascadia.woff') format('woff');
 }
+@font-face {
+  font-family: 'D2Coding';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 pre,
 code {
   @include relative-font-size(0.9375);
   color: $text-color;
-  font-family: 'Cascadia Code Regular'
+  font-family: 'Cascadia Code Regular', 'D2Coding'
 }
 
 *:not(pre) > code {
