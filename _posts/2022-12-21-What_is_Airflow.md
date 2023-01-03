@@ -23,7 +23,8 @@ Apache Airflow는 workflow의 관리를 위한 오픈 소스 플랫폼입니다.
 + DAG(Directed Acyclic Graph): 에어플로우의 핵심 개념이자 여러 작업들을 하나로 모으고 적절한 동작 수행을 위한 종속과 관계를 구성하는 역할을 합니다. 즉, 실행하고자 하는 작업들을 순서에 맞게 구성한 워크플로우(workflow)를 의미합니다. 
 
 
-참조 블로그:
+참조 링크:
+[DAGs](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
 [[Airflow] 데이터 적재 파이프라인 튜토리얼 - 서울시 지하철호선별 역별 승하차 인원 정보 적재하기](https://gibles-deepmind.tistory.com/133?category=954919)
 [AirFlow DAG 소개와 기본 구조](https://www.bearpooh.com/151)
 
