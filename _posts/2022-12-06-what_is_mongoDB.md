@@ -77,7 +77,6 @@ last_modified_at: 2022-12-01T23:44:00-00:00
 - join이 불가능하므로 미리 embedding시켜야함
 
 **document data model: 데이터 설계를 "종이문서" 설계하듯이 설계해야한다.**
-   
 
 ## JSON
 - JSON: JavaScript Object Notation
@@ -95,3 +94,22 @@ last_modified_at: 2022-12-01T23:44:00-00:00
  + 값은 object, string, number, array, true, false, null 사용 가능
  + 문자: 따옴표 사용, 숫자: 따옴표 사용 X
  + 배열: 대괄호([])로 시작하고 끝나며, 각 값은 콤마(,)로 구분
+
+## MongoDB 장점
+- Schema-less 구조:
+ + 다양한 형태의 데이터 저장 가능
+ + 데이터 모델의 유연한 변화 가능(데이터 모델 변경, 필드 확장 용이)
+- Read/Write 뛰어남
+- Scale Out 구조:
+ + 많은 데이터 저장 가능
+ + 장비 확장이 간단함
+- JSON 구조: 데이터 직관적 이해 가능
+- 사용 방법 쉽고, 개발이 편리함
+
+## MongoDB 단점
+- 데이터 업데이트 중 장애 발생 시, 데이터 손실 가능
+- 많은 인덱스 사용 시, 충분한 메모리 확보 필요
+- 데이터 공간 소모가 RDBMS에 비해 많음(비효율적인 Key 중복 입력)
+- 복잡한 JOIN 사용시 성능 제약이 따름
+- transactions 지원이 RDBMS 대비 미약함
+- 제공되는 MapReuce 작업이 Hadoop에 비해 성능이 떨어짐
