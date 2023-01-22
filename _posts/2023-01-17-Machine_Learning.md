@@ -4,7 +4,7 @@ header:
 categories:
   - Machine Learning
 tags:
-  - Machine Learning
+  - machine Learning
   - data analysis
   - data science
 last_modified_at: 2023-01-17T23:30:00-00:00
