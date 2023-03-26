@@ -1,5 +1,5 @@
 ---
-title: "[ADsP] 데이터의 이해"
+title: "[ADsP] 데이터의 가치와 미래"
 header:
 categories:
   - ADsP
