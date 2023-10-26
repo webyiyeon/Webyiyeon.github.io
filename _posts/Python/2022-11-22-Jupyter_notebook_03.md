@@ -5,10 +5,7 @@ categories:
   - Python
 tags:
   - python
-  - programming
   - jupyter notebook
-  - data analysis
-  - python basic
 last_modified_at: 2022-11-22T23:28:00-00:00
 ---
 ### = 대입 연산자, == 비교 연산자
