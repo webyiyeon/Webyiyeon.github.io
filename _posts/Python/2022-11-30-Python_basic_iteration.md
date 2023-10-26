@@ -5,11 +5,6 @@ categories:
   - Python
 tags:
   - python
-  - programming
-  - jupyter
-  - jupyter notebook
-  - data analysis
-  - python basic
 last_modified_at: 2022-11-30T12:53:00-00:00
 ---
 

@@ -2,7 +2,7 @@
 title: "[Python Basic] 주피터 노트북 기본 사용법 01. 설치"
 header:
 categories:
-  - Jupyter Notebook
+  - Python
 tags:
   - jupyter notebook
   - python

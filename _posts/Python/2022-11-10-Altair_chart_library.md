@@ -5,12 +5,6 @@ categories:
   - Python
 tags:
   - python
-  - programming
-  - jupyter notebook
-  - data analysis
-  - altair
-  - chart library
-  - visualization
 last_modified_at: 2022-11-14T21:46:00-00:00
 ---
    
