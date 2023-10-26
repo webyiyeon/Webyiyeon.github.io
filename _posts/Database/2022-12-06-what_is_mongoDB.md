@@ -5,12 +5,6 @@ categories:
   - MongoDB
 tags:
   - mongoDB
-  - programming
-  - data
-  - noSQL
-  - data analysis
-  - SQL
-  - document data 
 last_modified_at: 2022-12-01T23:44:00-00:00
 ---
 #### SQL vs NoSQL 
