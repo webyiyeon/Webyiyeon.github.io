@@ -1,4 +1,7 @@
-# source "https://rubygems.org"
-# gemspec
+# frozen_string_literal: true
 
-# gem "webrick", "~> 1.8"
+source "https://rubygems.org"
+gemspec
+
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
