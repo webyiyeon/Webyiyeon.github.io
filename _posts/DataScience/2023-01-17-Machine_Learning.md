@@ -2,14 +2,9 @@
 title: "[Machine Learning] Machine Learning의 개념과 종류"
 header: 
 categories:
-  - Data
+  - Data Science
 tags:
-  - machine
-  - Learning
-  - data
-  - analysis
-  - data
-  - science
+  - Data Science
 last_modified_at: 2023-01-17T23:30:00-00:00
 ---
 

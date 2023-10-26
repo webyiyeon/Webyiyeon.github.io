@@ -2,13 +2,10 @@
 title: "[Python Basic] 주피터 노트북 기본 사용법 01. 설치"
 header:
 categories:
-  - Python
+  - Jupyter Notebook
 tags:
-  - python
-  - programming
   - jupyter notebook
-  - data analysis
-  - python basic
+  - python
 last_modified_at: 2022-11-10T21:27:00-00:00
 ---
  

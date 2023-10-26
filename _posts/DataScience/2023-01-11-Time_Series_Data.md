@@ -2,17 +2,9 @@
 title: "[Time Series Data] 시계열 데이터"
 header: 
 categories:
-  - Data
+  - Data Science
 tags:
-  - Prophet
-  - programming
-  - data
-  - analysis
-  - data
-  - science
-  - time
-  - series
-  - data
+  - Data Science
 last_modified_at: 2023-01-11T09:16:00-00:00
 ---
 

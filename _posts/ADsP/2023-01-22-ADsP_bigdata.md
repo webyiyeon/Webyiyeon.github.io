@@ -5,9 +5,6 @@ categories:
   - ADsP
 tags:
   - ADsP
-  - big data
-  - data analysis
-  - data science
 last_modified_at: 2023-01-22T16:00:00-00:00
 ---
 ### 빅데이터의 이해
